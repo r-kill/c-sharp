@@ -1,2 +1,2 @@
-# c-sharp
-Programs that are written in C#.
+See Assembly repository for readme template.\
+Eighth, ninth, eleventh semesters.
